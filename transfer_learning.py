@@ -6,7 +6,7 @@ import os
 import numpy as np
 import scipy
 
-import Tensorflow as tf
+import tensorflow as tf
 
 # Constants
 # SL data has two classes: '1' for strong lenses and '0' for non-lenses
